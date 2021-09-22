@@ -43,6 +43,7 @@
 						<workers>${workers}</workers>
 					</cloudHubDeployment>
 					
+					
 					<classifier>mule-application</classifier>
 				</configuration>
 			</plugin>
